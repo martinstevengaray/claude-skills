@@ -1,10 +1,9 @@
 # claude-skills
 A collection of claude skills
 
-Jira skill requires the four environmental variables to be set
-JIRA_TOKEN, JIRA_EMAIL, JIRA_CLOUDID, JIRA_SITE_URL
+# Jira
 
-Example source config.sh script:
+Jira skill requires the following environmental variables to be set.  
 
 ```sh
 export JIRA_TOKEN="my-secret-token"
