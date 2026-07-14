@@ -1,5 +1,5 @@
 # claude-skills
-A collection of claude skills
+A collection of claude skills.
 
 # Jira
 

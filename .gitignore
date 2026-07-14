@@ -1,4 +1,4 @@
-.DS_Store
+.claude/
+.vscode/
 .idea/
-.claude/settings.local.json
 local/
